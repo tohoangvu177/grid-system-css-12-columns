@@ -1,0 +1,17 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+.container,
+.container-fluid {
+    background: #eee;
+}
+
+.card-item {
+    padding: 10px;
+    background: #fff;
+    border: dotted 1px olivedrab;
+    text-align: center;
+}
